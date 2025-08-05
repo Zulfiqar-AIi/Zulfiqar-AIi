@@ -15,7 +15,7 @@
 
 <br>
 
-- 🔭 **I’m currently working on:** Snatchify
+- 🔭 **I’m currently working on:** React.js
 - 🌱 **I’m currently learning:** AI and Data Science
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** zulfiqarnizar60@gmail.com
